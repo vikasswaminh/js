@@ -1,0 +1,12 @@
+{
+  "name": "restaurant-purchase-management",
+  "version": "1.0.0",
+  "description": "Restaurant Purchase Management System with Firebase",
+  "main": "index.js",
+  "scripts": {
+    "start": "open public/index.html"
+  },
+  "dependencies": {
+    "firebase": "^8.6.8"
+  }
+}
